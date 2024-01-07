@@ -1,6 +1,12 @@
 # Addison Microservices
 
+<<<<<<< HEAD
 This project contains three microservices - Tracks, Search, and CoolTown.  
+=======
+This project was in part insipred by the following advertisement (https://www.youtube.com/watch?v=wbj0s1B_O4o)
+
+It contains three microservices - Tracks, Search, and CoolTown.  
+>>>>>>> origin/main
 
 Located in addison/tracks, addison/search and addison/cooltown respectively.
 
