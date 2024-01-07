@@ -25,7 +25,7 @@ type APIResult struct {
 
 var token string
 
-const KEY = "810b9adf0d7817575580355d3c513bad" //replace with own API key here !!!
+const KEY = "-------" //replace with own API key here !!!
 
 var logger *log.Logger
 
